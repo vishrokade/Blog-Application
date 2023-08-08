@@ -15,7 +15,7 @@ import {
 import { BrowserRouter } from "react-router-dom/dist";
 
 function App() {
-  const user = false;
+  const user = true;
   return (
    <BrowserRouter>
       <TopBar/>

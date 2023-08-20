@@ -5,7 +5,7 @@ export default function Post(){
     return(
         <div className="post">
            <img className="postImg"
-                src="/images/nature2.jpeg" 
+                src="images/nature2.jpeg" 
                 alt="" 
             />
 

@@ -10,7 +10,7 @@ export default function Header(){
            </div>
            <img 
                 className="headerImg" 
-                src="/images/image1.jpg"
+                src="https://cdn.pixabay.com/photo/2023/08/06/18/55/building-8173603_1280.jpg"
                 alt=""
             />
         </div>

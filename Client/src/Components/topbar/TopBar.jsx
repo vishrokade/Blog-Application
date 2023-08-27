@@ -2,7 +2,7 @@ import {Link} from 'react-router-dom';
 import "./topbar.css";
 
 export default function TopBar(){
-    const user = true;
+    const user = false;
     return(
         <div className="top">
             <div className="topLeft">
@@ -26,7 +26,7 @@ export default function TopBar(){
                { user ? (
                 <img 
                     className="topImg"
-                    src="/images/profile.png" 
+                    src="https://cdn.pixabay.com/photo/2023/08/06/18/55/building-8173603_1280.jpg" 
                     alt="" 
                 />
                ) : (

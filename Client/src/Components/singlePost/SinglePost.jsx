@@ -4,7 +4,7 @@ export default function SinglePost(){
     return(
         <div className="singlePost">
             <div className="singlePostWrapper">
-                <img src="/images/lion.jpg" 
+                <img src="https://cdn.pixabay.com/photo/2012/06/19/10/32/owl-50267_1280.jpg" 
                     alt=""
                     className="singlePostImg" 
                 />

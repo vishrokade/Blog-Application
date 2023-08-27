@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-https://vishrokade.github.io/Blog-Application/
+
 check actual working with github pages
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
